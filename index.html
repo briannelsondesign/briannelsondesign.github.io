@@ -1,18 +1,24 @@
 ---
 layout: default
-title: Brian Nelson Design
+title: Home
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+<div class="welcome small-caps">
+  Graphic Designer, Father, Occasional Woodworker
+</div>
+
+<div class="blog">
+  <h2>Posts</h2>
+  <ul class="post-list">
     {% for post in site.categories.blog %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span class="exdent">{{ post.date | date: "%-d <em class='sc'>%b</em> %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+</div>
 
-  <h1>Projects</h1>
-  <ul class="posts">
+<div class="work">
+  <h2>Projects</h2>
+  <ul class="post-list">
     {% for post in site.categories.work %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
