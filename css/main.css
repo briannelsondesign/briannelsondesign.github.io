@@ -53,7 +53,10 @@ a:visited { color: #a0a; }
 .sc {
   font-family: 'Whitney SSm Small Caps A', 'Whitney SSm Small Caps B'; 
   font-style: normal;
-  font-weight: 400;   
+}
+
+h1 .sc, h2 .sc, h3 .sc, h4 .sc {
+  font-family: 'Chronicle SSm Small Caps A', 'Chronicle SSm Small Caps B';
 }
 
 .site {
@@ -104,8 +107,8 @@ h1.site-title {
 }
 .post p:first-child:first-line {
   font-family: 'Whitney SSm Small Caps A', 'Whitney SSm Small Caps B';
-  font-size: 1.1428em;
 }
+
 code {
   background: #f7f7f7;
   color: #d00;
