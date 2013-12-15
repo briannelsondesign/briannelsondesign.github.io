@@ -55,10 +55,6 @@ a:visited { color: #a0a; }
   font-style: normal;
 }
 
-h1 .sc, h2 .sc, h3 .sc, h4 .sc {
-  font-family: 'Chronicle SSm Small Caps A', 'Chronicle SSm Small Caps B';
-}
-
 .site {
   margin: 0 auto;
   max-width: 34em;
