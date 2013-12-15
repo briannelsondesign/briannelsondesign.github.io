@@ -1,4 +1,10 @@
 briannelsondesign.github.io
 ===========================
 
-Personal site
+Get up and running:
+
+* Install [Jekyll](http://jekyllrb.com)
+* `bundle install`
+* `bundle exec jekyll serve -w`
+
+

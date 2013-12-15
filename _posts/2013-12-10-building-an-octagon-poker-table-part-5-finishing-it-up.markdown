@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building an Octagon Poker Table (Part 5: Finishing It Up)"
+title:  "Octagon Poker Table (Part 5: Finishing It Up)"
 date:   2013-12-10
 categories: blog
 ---

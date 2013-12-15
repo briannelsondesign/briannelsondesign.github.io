@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building an Octagon Poker Table (Part 1: Plans and Materials)"
+title:  "Octagon Poker Table (Part 1: Plans and Materials)"
 date:   2013-08-02
 categories: blog
 ---

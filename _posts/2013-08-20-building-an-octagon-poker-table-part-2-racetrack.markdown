@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building an Octagon Poker Table (Part 2: Racetrack)"
+title:  "Octagon Poker Table (Part 2: Racetrack)"
 date:   2013-08-20
 categories: blog
 ---

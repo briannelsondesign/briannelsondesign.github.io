@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building an Octagon Poker Table (Part 3: Vertical Skirt)"
+title:  "Octagon Poker Table (Part 3: Vertical Skirt)"
 date:   2013-08-23
 categories: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building an Octagon Poker Table (Part 4: Subtable and Playing Surface)"
+title:  "Octagon Poker Table (Part 4: Subtable and Playing Surface)"
 date:   2013-08-27
 categories: blog
 ---
