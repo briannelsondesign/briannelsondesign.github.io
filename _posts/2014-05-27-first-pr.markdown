@@ -1,0 +1,13 @@
+---
+layout: work
+title:  "First Pull Request"
+categories: work
+---
+
+A friend of mine who works at [GitHub](http://github.com) hooked me up with another Hubber, [Andrew Nesbitt](http://twitter.com/teabass). He had leveraged the GitHub <span class="sc">api</span> to look up any GitHub user's first pull request.
+
+I came in to add a design and some polish. It was a fun weekend project and we're pretty thrilled at how it turned out (and the response we've gotten).
+
+Check out the [live site](http://firstpr.me), especially if you're a frequent GitHub user.
+
+![First PR]({{ site.url }}/assets/first-pr.jpg)
