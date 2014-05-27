@@ -11,3 +11,5 @@ I came in to add a design and some polish. It was a fun weekend project and we'r
 Check out the [live site](http://firstpr.me), especially if you're a frequent GitHub user.
 
 ![First PR]({{ site.url }}/assets/first-pr.jpg)
+
+A special thanks goes to [Matt DuVall](http://mattduvall.com/) who's doing a wonderful job re-creating some animations that were originally found in [Stripe's](http://stripe.com) new checkout process.
