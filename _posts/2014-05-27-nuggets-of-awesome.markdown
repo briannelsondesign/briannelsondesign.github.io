@@ -9,7 +9,7 @@ I recently spent a little time helping out GitHub's [Andrew Nesbitt](http://twit
 
 I commented to my friend that it's (a little) sad that a project I've spent so little time on has become the most talked about thing I've done. His response was pretty smart:
 
-### "I think the lesson here is how to figure out the Nugget of Awesome and only deal with that."
+### &ldquo;I think the lesson here is how to figure out the Nugget of Awesome and only deal with that.&rdquo;
 
 First PR was so fun and easy because I spent a *lot* of time making one very simple interaction simple and enjoyable.
 
