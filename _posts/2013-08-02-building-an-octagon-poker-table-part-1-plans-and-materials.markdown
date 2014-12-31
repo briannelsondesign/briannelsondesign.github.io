@@ -23,7 +23,7 @@ I’ll do my best to provide as much detail as I can throughout the process, and
 
 Whenever I do a project like this, I always try to work with commonly available wood stock sizes and materials, so it’s cost-effective and easy for someone else to replicate. Keeping that in mind, I tend to draw up plans based around this philosophy.
 
-I also decided to buy the pedestal base and legs already made from a great little company in Tennessee called Adams Wood Products. Building something like that is probably beyond my ability, so for a pretty reasonable price, I just had them ship a set to me. It’ll save me a lot of time and, probably, frustration.
+I also decided to buy the pedestal base and legs already made from a great little company in Tennessee called [Adams Wood Products](https://www.adamswoodproducts.com/). Building something like that is probably beyond my ability, so for a pretty reasonable price, I just had them ship a set to me. It’ll save me a lot of time and, probably, frustration.
 
 To start, the playing surface will be made up of 8 pieces that each look like this:
 
