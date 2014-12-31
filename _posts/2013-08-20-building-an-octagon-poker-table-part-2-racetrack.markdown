@@ -23,7 +23,7 @@ There are three reasons for this:
 2. The grain of the sub-table (plywood) showing through wouldn’t be lined up with the direction of the grain of the racetrack.
 3. I _think_ I like the full wood surface on the racetrack better (instead of inset chip trays).
 
-Granted, the first reason is due to lack of poor planning, but I’d like to think I would have ended up with the same conclusion based on #2 and #3 above.
+Granted, the first reason is due to lack of planning, but I’d like to think I would have ended up with the same conclusion based on #2 and #3 above.
 
 ## Cutting the Racetrack Pieces
 
