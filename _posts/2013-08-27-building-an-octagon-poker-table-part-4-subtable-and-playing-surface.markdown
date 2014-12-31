@@ -55,7 +55,7 @@ Bang the T-nuts into the bottom of the playing surface. I don’t have a photo o
 
 ## Foam and Felt
 
-This step is pretty straightforward. I’m not an expert on foam adhesives but I used 3M’s handy [surface guide](http://solutions.3m.com/wps/portal/3M/en_US/3M-Super-77/Super77/SprayAdhesive/Product-Selector/) was a big help so I picked up 3M FoamFast 74 Spray Adhesive to attach the high density foam to the wood playing surface. The foam is 1/4″ thick, so adding that to the 1/2″ thick plywood gives us 3/4″ which means our playing surface will be the same height as the racetrack.
+This step is pretty straightforward. I’m not an expert on foam adhesives but 3M’s handy [surface guide](http://solutions.3m.com/wps/portal/3M/en_US/3M-Super-77/Super77/SprayAdhesive/Product-Selector/) was a big help so I picked up 3M FoamFast 74 Spray Adhesive to attach the high density foam to the wood playing surface. The foam is 1/4″ thick, so adding that to the 1/2″ thick plywood gives us 3/4″ which means our playing surface will be the same height as the racetrack.
 
 Before sticking the foam on, I covered the holes in the top of the playing surface with duct tape, just so the foam wouldn’t be tempted to sink into those holes at all. I’m not too concerned about it, since the foam is so stiff.
 
