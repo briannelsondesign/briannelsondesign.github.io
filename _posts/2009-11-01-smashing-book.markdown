@@ -10,4 +10,4 @@ I submitted my original entry to the open forum. Fast forward to a month or two 
 
 Smashing Magazine released the book in November 2009 and has since released printed and digital editions.
 
-![Final cover]({{ site.url }}/assets/smashing-book-full.jpg)
+[![Final cover]({{ site.url }}/assets/smashing-book-full.jpg)]({{ site.url }}/assets/smashing-book-full.jpg)

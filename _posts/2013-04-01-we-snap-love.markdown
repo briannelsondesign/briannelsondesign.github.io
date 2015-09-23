@@ -10,6 +10,6 @@ We built a quick and dirty site that had easy uploading for us and simple access
 
 We Snap Love is built in Ruby on Rails.
 
-![Home]({{ site.url }}/assets/wsl-home.jpg)
+[![Home]({{ site.url }}/assets/wsl-home.jpg)]({{ site.url }}/assets/wsl-home.jpg)
 
-![Photo feed]({{ site.url }}/assets/wsl-inside.jpg)
+[![Photo feed]({{ site.url }}/assets/wsl-inside.jpg)]({{ site.url }}/assets/wsl-inside.jpg)

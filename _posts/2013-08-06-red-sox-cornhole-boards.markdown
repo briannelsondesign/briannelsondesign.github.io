@@ -7,4 +7,4 @@ categories: blog
 
 In progress:
 
-![Cornhole boards]({{ site.url }}/assets/cornhole-boards.jpg)
+[![Cornhole boards]({{ site.url }}/assets/cornhole-boards.jpg)]({{ site.url }}/assets/cornhole-boards.jpg)

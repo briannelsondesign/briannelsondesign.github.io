@@ -27,15 +27,15 @@ I also decided to buy the pedestal base and legs already made from a great littl
 
 To start, the playing surface will be made up of 8 pieces that each look like this:
 
-![Table Top Piece]({{ site.url }}/assets/table-top.jpg)
+[![Table Top Piece]({{ site.url }}/assets/table-top.jpg)]({{ site.url }}/assets/table-top.jpg)
 
 Once you cut out 8 of them and glue them together, the goal is to end up with something like this:
 
-![Assembled Table Top]({{ site.url }}/assets/table-top-assembled.png)
+[![Assembled Table Top]({{ site.url }}/assets/table-top-assembled.png)]({{ site.url }}/assets/table-top-assembled.png)
 
 I’ve made some calculations based on using a 4′×4′ piece of plywood as the table base and determined the following measurements:
 
-![Measurements]({{ site.url }}/assets/measurements.png)
+[![Measurements]({{ site.url }}/assets/measurements.png)]({{ site.url }}/assets/measurements.png)
 
 I’m not sure of the exact dimensions of the chip holder area or the cup holder hole yet, since I haven’t gotten the cup holders in the mail yet. I’ll wait until then to see what size hole I need. Then, I’ll want to match the cup holder width to the width of the chip holder area, just to make it nice and consistent.
 
@@ -43,7 +43,7 @@ I’m not sure of the exact dimensions of the chip holder area or the cup holder
 
 You’ll notice I made the chip holder area closer to the inner edge. The reason for this is that I’ll be adding a bullnose edge and a vertical skirt underneath this layer, so I need a little extra breathing room. Here’s a cross section of what I mean:
 
-![Cross-section]({{ site.url }}/assets/cross-section.png)
+[![Cross-section]({{ site.url }}/assets/cross-section.png)]({{ site.url }}/assets/cross-section.png)
 
 This is all I’m going to use for planning purposes, though there’s a lot more going on in my head. I’ll try and expand upon that as I go through the process of the build.
 
@@ -79,4 +79,4 @@ _For the stain, I’m using Minwax English Chestnut for the color. For the polyu
 
 ## Next Steps: The racetrack
 
-Stay tuned. The next step will cover shaping the 8 pieces for the table top and fitting them together.
+Stay tuned. The [next step]({% post_url 2013-08-20-building-an-octagon-poker-table-part-2-racetrack %}) will cover shaping the 8 pieces for the table top and fitting them together.

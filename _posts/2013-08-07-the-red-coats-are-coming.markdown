@@ -7,4 +7,4 @@ categories: blog
 
 Coats of paint, that is.
 
-![Cornhole boards]({{ site.url }}/assets/red-coats.jpg)
+[![Cornhole boards]({{ site.url }}/assets/red-coats.jpg)]({{ site.url }}/assets/red-coats.jpg)

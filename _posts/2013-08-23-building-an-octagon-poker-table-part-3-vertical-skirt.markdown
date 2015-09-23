@@ -25,7 +25,7 @@ _Note: This is not the same 22.5° angle as before. This time, we’ll use the a
 
 Once you’re done cutting the 8 pieces, dry fit them and make any adjustments (like we did on the racetrack).
 
-![Dry fit]({{ site.url }}/assets/assembly.jpg)
+[![Dry fit]({{ site.url }}/assets/assembly.jpg)]({{ site.url }}/assets/assembly.jpg)
 
 _Note: I wasn’t extremely accurate on these cuts because I knew I would be putting another layer covering the outside of the skirt. I chose to add some oak molding to dress up the skirt and match the pedestal style._
 
@@ -35,11 +35,11 @@ Because I would be putting molding on the outside edge, I had to rip the 1×4 do
 
 Before gluing and clamping these, I got everything set up. I laid out my 8 pieces and a ratcheting strap clamp. Then, I glued the boards as quickly as possible and tightened up the ratchet clamp.
 
-![Ratchet clamp]({{ site.url }}/assets/ratchet-clamp.jpg)
+[![Ratchet clamp]({{ site.url }}/assets/ratchet-clamp.jpg)]({{ site.url }}/assets/ratchet-clamp.jpg)
 
 I also added two screws at the foot of each skirt section.
 
-![Skirt screws]({{ site.url }}/assets/skirt-screws.jpg)
+[![Skirt screws]({{ site.url }}/assets/skirt-screws.jpg)]({{ site.url }}/assets/skirt-screws.jpg)
 
 ## Dressing it Up with Molding
 
@@ -47,14 +47,14 @@ Once this was good and dry, I started working on the molding. Since I had previo
 
 **Pro Tip:** Don’t measure all the molding at once. Instead, cut the first one and glue it. Then, cut the second one and glue it, and so on. Because your molding lengths all have to work together around the octagon, you’ll get much more accurate results if you measure and cut them one by one.
 
-![Measuring the molding]({{ site.url }}/assets/molding-markup.jpg)
+[![Measuring the molding]({{ site.url }}/assets/molding-markup.jpg)]({{ site.url }}/assets/molding-markup.jpg)
 
-![Molding closeup]({{ site.url }}/assets/molding-closeup.jpg)
+[![Molding closeup]({{ site.url }}/assets/molding-closeup.jpg)]({{ site.url }}/assets/molding-closeup.jpg)
 
 
 Be sure to clamp this well, since we won’t be using any hardware to secure it. It’s all glue, which will be plenty strong enough as long as it gets a good, tight fit.
 
-![Clamping the molding]({{ site.url }}/assets/molding-clamping.jpg)
+[![Clamping the molding]({{ site.url }}/assets/molding-clamping.jpg)]({{ site.url }}/assets/molding-clamping.jpg)
 
 **Pro Tip:** You’ll notice a finish nail wedged under the left side of the molding. I used this as a shim to make the molding level with the bottom (the top edge we’re looking at now) of the vertical skirt. Yes, this will possibly add a small space between the bullnose and the molding (where the nail is), but since that’s going to be under the table, chances are no one will even notice. By doing this, I’ll be saving myself a lot of work on the sections that the molding and vertical skirt aren’t **exactly** the same height.
 
@@ -64,4 +64,4 @@ Once you’re finished with all eight sections, you’re ready to move on to the
 
 ## Next Step: The Subtable and Playing Surface
 
-We’ll cut the subtable, the playing surface, and the mount for the pedestal base in the next step. We’ll also drill some holes to make the playing surface easily detachable and cover the playing surface with foam and felt.
+We’ll cut the subtable, the playing surface, and the mount for the pedestal base in the [next step]({% post_url 2013-08-27-building-an-octagon-poker-table-part-4-subtable-and-playing-surface %}). We’ll also drill some holes to make the playing surface easily detachable and cover the playing surface with foam and felt.

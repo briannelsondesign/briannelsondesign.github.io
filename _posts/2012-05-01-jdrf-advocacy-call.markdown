@@ -12,8 +12,8 @@ As the designer on this project, I worked with a developer and our partner at <s
 
 Because a quick turnaround was important, we utilized [Bootstrap](http://getbootstrap.com) for our <span class="sc">ui</span> framework and customized it heavily to fit our needs and the existing <span class="sc">jdrf</span> network of sites.
 
-![Home]({{ site.url }}/assets/jdrf-home.jpg)
+[![Home]({{ site.url }}/assets/jdrf-home.jpg)]({{ site.url }}/assets/jdrf-home.jpg)
 
-![Topic]({{ site.url }}/assets/jdrf-topic.jpg)
+[![Topic]({{ site.url }}/assets/jdrf-topic.jpg)]({{ site.url }}/assets/jdrf-topic.jpg)
 
-![Calling]({{ site.url }}/assets/jdrf-calling.jpg)
+[![Calling]({{ site.url }}/assets/jdrf-calling.jpg)]({{ site.url }}/assets/jdrf-calling.jpg)

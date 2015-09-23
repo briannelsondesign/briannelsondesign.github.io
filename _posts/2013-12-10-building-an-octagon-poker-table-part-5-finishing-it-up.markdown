@@ -26,7 +26,7 @@ Another place I used wood filler was on the main racetrack, between each of the 
 
 **Pro Tip:** The trick with wood filler is to get a lot right where you need it, but try not to have too much spillover. I’ve noticed that oak (which is what I typically use) tends to have a fairly deep grain. When wood filler gets in there, it’s a bit difficult to sand it all out, since the grain is so deep. This might not be as much of a problem with other woods, but having to sand out a huge chunk of your surface just to get all the wood filler off is never good.
 
-![Sanding]({{ site.url }}/assets/sanding.jpg)
+[![Sanding]({{ site.url }}/assets/sanding.jpg)]({{ site.url }}/assets/sanding.jpg)
 
 ## Sanding (again)
 
@@ -46,7 +46,7 @@ Some people swear by different brands of stain, but I’ve always had pretty goo
 
 **Pro Tip:** It’s best to use a separate stain and polyurethane, not a product that claims to “stain and seal” at the same time (I’m looking at you PolyShades). You’ll get much better results and have a lot more control over the color.
 
-![Unfinished table]({{ site.url }}/assets/unfinished-table.jpg)
+[![Unfinished table]({{ site.url }}/assets/unfinished-table.jpg)]({{ site.url }}/assets/unfinished-table.jpg)
 
 This is the table, put together right before staining. I dry fit it like this to make sure everything fit well and looked good, then disassembled it for staining. Each piece (table top, pedestal, and legs) was stained individually.
 
@@ -71,7 +71,7 @@ Polyurethane can take a while to “cure”. After 24-48 hours, you can use the 
 
 Once the poly coats are dry, you can connect the felt portion, and the pedestal and legs. If everything went well, you should end up with something close to this.
 
-![Finished table]({{ site.url }}/assets/finished-table.jpg)
+[![Finished table]({{ site.url }}/assets/finished-table.jpg)]({{ site.url }}/assets/finished-table.jpg)
 
 Some people like having chip trays on the racetrack portion, but I prefer a solid surface to stack chips so I went with the flat racetrack as shown. The great thing about projects like this is you can customize to your own preferences to really make it your own.
 

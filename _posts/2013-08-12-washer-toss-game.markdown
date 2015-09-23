@@ -16,4 +16,4 @@ Materials list:
 
 The washers are hard to find. I found some on Amazon.com and some at Tractor Supply Company. The largest washers they sell at <span class="sc">tsc</span> are the ones you want.
 
-![Washer toss game]({{ site.url }}/assets/washer-toss.jpg)
+[![Washer toss game]({{ site.url }}/assets/washer-toss.jpg)]({{ site.url }}/assets/washer-toss.jpg)

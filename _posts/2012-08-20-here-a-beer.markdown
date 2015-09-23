@@ -8,6 +8,6 @@ Here, a Beer is an ongoing personal project that aims to provide a fun (and rewa
 
 In its current form, it is a collection of original illustrations. These will serve as badges (think Foursquare) for a user to collect.
 
-![Illustrations]({{ site.url }}/assets/beer-logo.jpg)
+[![Illustrations]({{ site.url }}/assets/beer-logo.jpg)]({{ site.url }}/assets/beer-logo.jpg)
 
-![Home]({{ site.url }}/assets/beer-badges.jpg)
+[![Home]({{ site.url }}/assets/beer-badges.jpg)]({{ site.url }}/assets/beer-badges.jpg)

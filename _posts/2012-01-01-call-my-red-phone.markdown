@@ -10,8 +10,8 @@ As one half of the two-man team that created this project, I was responsible for
 
 <span class="sc">cmrp</span> was built in Ruby on Rails and was sold at the end of 2012.
 
-![Illustrations]({{ site.url }}/assets/cmrp-illustrations.png)
+[![Illustrations]({{ site.url }}/assets/cmrp-illustrations.png)]({{ site.url }}/assets/cmrp-illustrations.png)
 
-![Home]({{ site.url }}/assets/cmrp-home.jpg)
+[![Home]({{ site.url }}/assets/cmrp-home.jpg)]({{ site.url }}/assets/cmrp-home.jpg)
 
-![Flow]({{ site.url }}/assets/cmrp-flow.jpg)
+[![Flow]({{ site.url }}/assets/cmrp-flow.jpg)]({{ site.url }}/assets/cmrp-flow.jpg)

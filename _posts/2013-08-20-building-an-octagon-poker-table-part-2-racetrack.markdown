@@ -15,7 +15,7 @@ This is the 2nd part of a multi-part series. View the rest:
 
 Since I’ve been busy with some other outdoor game projects (Cornhole boards and Washer Toss), I’ve decided to simplify my racetrack design a little bit. Instead of a chip tray _and_ cupholder on each section, I’m opting for a cupholder at the angle where two sections meet.
 
-![New cupholder design]({{ site.url }}/assets/new-cupholders.png)
+[![New cupholder design]({{ site.url }}/assets/new-cupholders.png)]({{ site.url }}/assets/new-cupholders.png)
 
 There are three reasons for this:
 
@@ -43,9 +43,9 @@ Once you have your 8 pieces, arrange them in your octagon shape to see how you d
 
 This is a step that could have possibly waited until later, but I chose to do it now, to help improve the fit of my angle cuts. Since you’re cutting out a good chunk of each joint, there’s less wood to work down if the fit isn’t perfect.
 
-![Hole drilling setup]({{ site.url }}/assets/hole-drilling.jpg)
+[![Hole drilling setup]({{ site.url }}/assets/hole-drilling.jpg)]({{ site.url }}/assets/hole-drilling.jpg)
 
-![Hole drilling complete]({{ site.url }}/assets/hole-drilled.jpg)
+[![Hole drilling complete]({{ site.url }}/assets/hole-drilled.jpg)]({{ site.url }}/assets/hole-drilled.jpg)
 
 To drill the holes properly, clamp the **heck** out of your two pieces and drill away. Oak tends to be a very hard wood, so it’ll take some doing. Don’t put too much pressure on the drill or you’ll burn it out. Just let the teeth of the hole saw do the work and you should be fine.
 
@@ -53,7 +53,7 @@ To drill the holes properly, clamp the **heck** out of your two pieces and drill
 
 ## Minor Adjustments may be Necessary
 
-![Octagon dry-fit]({{ site.url }}/assets/dry-fit.jpg)
+[![Octagon dry-fit]({{ site.url }}/assets/dry-fit.jpg)]({{ site.url }}/assets/dry-fit.jpg)
 
 It’s pretty clear from the photo above that my cuts weren’t entirely perfect. To fix this, butt two of your pieces up against each other, and circle any ill-fitting areas. Go around your whole ring and do this.
 
@@ -71,7 +71,7 @@ To make the bullnose, I cut my 1×2′s to a length of 24″ and used a combinat
 
 This is what you’ll end up with, once your holes are cut and bullnose pieces are attached.
 
-![Bullnose]({{ site.url }}/assets/bullnose.jpg)
+[![Bullnose]({{ site.url }}/assets/bullnose.jpg)]({{ site.url }}/assets/bullnose.jpg)
 
 ## Routing the Pieces
 
@@ -91,14 +91,14 @@ This step takes some patience, unless you happen to have a boatload of clamps. I
 
 You pretty much can’t use too much glue on this step, and a lot of glue will make a really strong bond. Put glue on **both** surfaces, then clamp the heck out of it the best you can. Once it was clamped, I drove my single pocket screw in on the inside of each joint, then did my best to clamp the outer edge of the joint.
 
-![Clamping]({{ site.url }}/assets/clamping.jpg)
+[![Clamping]({{ site.url }}/assets/clamping.jpg)]({{ site.url }}/assets/clamping.jpg)
 
 I actually figured out a much better way to clamp then I have pictured above, so I’ll try and draw it out.
 
-![Improved clamping]({{ site.url }}/assets/better-clamping.jpg)
+[![Improved clamping]({{ site.url }}/assets/better-clamping.jpg)]({{ site.url }}/assets/better-clamping.jpg)
 
 So, if I had done that originally, I probably would have spent less time using wood filler to make my joints nice and smooth!
 
 ## Next Step: The Vertical Skirt
 
-I actually don’t have a photo of the ring completely glued together, but you’ll see it in later steps. So, that completes the Racetrack. Next we’ll have the vertical skirt, which adds some class to the underside of the table.
+I actually don’t have a photo of the ring completely glued together, but you’ll see it in later steps. So, that completes the Racetrack. Next we’ll have the [vertical skirt]({% post_url 2013-08-23-building-an-octagon-poker-table-part-3-vertical-skirt %}), which adds some class to the underside of the table.

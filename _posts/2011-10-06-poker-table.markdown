@@ -4,7 +4,6 @@ title:  "Poker Table"
 categories: work
 ---
 
-![Table]({{ site.url }}/assets/poker-full.jpg)
+[![Table]({{ site.url }}/assets/poker-full.jpg)]({{ site.url }}/assets/poker-full.jpg)
 
-![Detail of table]({{ site.url }}/assets/poker-detail.jpg)
-
+[![Detail of table]({{ site.url }}/assets/poker-detail.jpg)]({{ site.url }}/assets/poker-detail.jpg)
