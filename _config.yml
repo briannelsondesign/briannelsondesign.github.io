@@ -1,4 +1,18 @@
-name: Brian Nelson
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Brian Nelson
+email: brian@briannelsondesign.com
+description: My personal site
+baseurl: ""
+url: "" # the base hostname & protocol for your site
+twitter_username: itsbriannelson
+github_username:  briannelson
 permalink: pretty
+
+# General settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+sass:
+  sass_dir: _sass
+  style: :compressed
