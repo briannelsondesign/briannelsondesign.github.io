@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Toddler Piano (Part 1: Plans and Materials)"
+title: "Toddler Piano (Part 1: Plans and Materials)"
 date: "2015-09-29"
 categories: blog
 ---
@@ -8,15 +8,16 @@ categories: blog
 This is the 1st part of a multi-part series. View the rest:
 
 * **Part 1: Plans and Materials**
+* [Part 2: The Piano Bench]({% post_url 2018-04-05-toddler-piano-part-2 %})
+* [Part 3: The Piano]({% post_url 2018-04-05-toddler-piano-part-3 %})
 
 <!--
-* [Part 2: The Piano Bench]({% post_url 2013-08-20-building-an-octagon-poker-table-part-2-racetrack %})
 * [Part 3: Vertical Skirt]({% post_url 2013-08-23-building-an-octagon-poker-table-part-3-vertical-skirt %})
 * [Part 4: Subtable and Playing Surface]({% post_url 2013-08-27-building-an-octagon-poker-table-part-4-subtable-and-playing-surface %})
 * [Part 5: Finishing It Up]({% post_url 2013-12-10-building-an-octagon-poker-table-part-5-finishing-it-up %})
 -->
 
-This is the first in a series of posts recording my experience building what I'm calling a "toddler piano". Why would one build something like this, you might ask. Well, I enjoy playing the piano, and my 3-year-old daughter enjoys it. In an effort to encourage her to tinker around, I've been looking for a realistic piano or keyboard that she can use.
+This is the first in a series of posts recording my experience building what I'm calling a "toddler piano". Why would one build something like this, you might ask. Well, I enjoy playing the piano, and my <span class="sc">3</span>-year-old daughter enjoys it. In an effort to encourage her to tinker around, I've been looking for a realistic piano or keyboard that she can use.
 
 But, all the small "pianos" I've found are really small and sound like xylophones or glockenspiels. Not what I have in mind.
 
@@ -28,7 +29,7 @@ I’ll do my best to provide as much detail as I can throughout the process, and
 
 ## The Plans
 
-I've already purchased this wonderful keyboard from Yamaha: the Yamaha Piaggero NP11. I specifically chose this keyboard because it has 61 keys and a very simple look, which should blend in well with the case I'm making.
+I've already purchased this wonderful keyboard from Yamaha: the Yamaha Piaggero <span class="sc">np</span>11. I specifically chose this keyboard because it has <span class="sc">61</span> keys and a very simple look, which should blend in well with the case I'm making.
 
 Once the keyboard arrived I took some measurements to draw up some rough plans.
 
@@ -72,4 +73,4 @@ Based on the rough plans above, I tried to sketch out a materials list, which I'
 
 I'll do my best to explain what all these different pieces are as I go, and you can peek ahead to see exactly what all this amounts to.
 
-The first thing I'm going to tackle is the piano bench, since that is the simplest and shouldn't take very long.
+The first thing I'm going to tackle is the [piano bench]({% post_url 2018-04-05-toddler-piano-part-2 %}), since that is the simplest and shouldn't take very long.
